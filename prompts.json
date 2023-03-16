@@ -11,7 +11,7 @@
   },
   {
     "title": "分多次接受长内容",
-    "prompt": "I'm going to give you a series of articles across multiple chat inputs. For each one, simply respond 'okay' until l ask you to perform an action.",
+    "prompt": "I'm going to give you a series of articles across multiple chat inputs. For each one, simply respond 'okay' until I ask you to perform an action.",
     "lang": "zh-CN"
   }
 ]
